@@ -1,3 +1,4 @@
+[![PDF-Preview](https://img.shields.io/badge/Preview-PDF-blue)](../../releases/download/auto-pdf-preview/TimeSeriesDiscoveryAndAccess.pdf)
 # TimeSeriesDiscoveryAndAccess
 Note on Time Series Discovery and Access
 
